@@ -1,0 +1,2 @@
+Simple circular buffer backed by a continuous memory region.
+Also implements some string-searching functionality.
